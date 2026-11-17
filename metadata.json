@@ -1,0 +1,6 @@
+{
+  "name": "Beauty Bea Collection",
+  "description": "Premium Nigerian boutique for luxury handbags, stylish footwear, timeless jewelry, and captivating fragrances with instant WhatsApp ordering and live store status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
